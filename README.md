@@ -8,5 +8,5 @@ Tensorflow | Pytorch
 * MLP's
 * Regularization Techniques
 * Batch Normalization
-* Automatic Differenation 
+* Automatic Differenation -inc. Custom Training Loop to impliment BackProp Algo
 * Convolutional Neural Networks - inc. Feature Extraction, Sobel Operator, Saliency Maps 
