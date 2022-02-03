@@ -8,6 +8,6 @@ Tensorflow | Pytorch
 * MLP's
 * Regularization Techniques
 * Batch Normalization
-* Automatic Differenation -inc. Custom Training Loop to impliment BackProp Algo
+* Automatic Differenation - inc. Custom Training Loop to impliment BackProp Algorithm
 * Convolutional Neural Networks - inc. Feature Extraction, Sobel Operator, Saliency Maps 
-* TensorFlow Probability - Broadcasting, Distributions, Bijectors, Chang of variables formula
+* TensorFlow Probability - Broadcasting, Distributions, Bijectors, Change of variables formula
