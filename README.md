@@ -10,3 +10,4 @@ Tensorflow | Pytorch
 * Batch Normalization
 * Automatic Differenation -inc. Custom Training Loop to impliment BackProp Algo
 * Convolutional Neural Networks - inc. Feature Extraction, Sobel Operator, Saliency Maps 
+* TensorFlow Probability - Broadcasting, Distributions, Bijectors, Chang of variables formula
