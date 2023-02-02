@@ -2,7 +2,7 @@
 Collection of my own notes and projects related to Deep Learning. 
 Tensorflow | Pytorch 
 ## Projects
-* LTSM Model to Predict a Stocks Next Day Close
+* LSTM Model to Predict a Stocks Next Day Close
 * MLP vs CNN for Img Classification on MNIST Dataset
 
 ## Examples
